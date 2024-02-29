@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+Father of 3 boys, living in the Netherlands.
+Interested in many things, especially Linux, gadgets, AI, OSINT, soccer and politics.
+
+- 🌱 I’m currently learning Pycharm and git (and Python)
+- 💬 Ask me about anything.
 
 <!--
 **pasajeros/pasajeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
